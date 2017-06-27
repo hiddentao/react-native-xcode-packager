@@ -1,0 +1,26 @@
+{
+  "name": "react-native-xcode-packager",
+  "version": "1.0.0",
+  "description": "Custom XCode bundle packager for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiddentao/react-native-xcode-packager.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "bundle",
+    "xcode",
+    "appium"
+  ],
+  "author": "Ramesh Nair <ram@hiddentao.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiddentao/react-native-xcode-packager/issues"
+  },
+  "homepage": "https://github.com/hiddentao/react-native-xcode-packager#readme"
+}
