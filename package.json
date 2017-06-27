@@ -1,6 +1,6 @@
 {
   "name": "react-native-xcode-packager",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Custom XCode bundle packager for React Native",
   "main": "index.js",
   "scripts": {
